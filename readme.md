@@ -1,5 +1,6 @@
 
-= getpubfig =
+getpubfig
+=========
 
 Just a quick hack to download the pictures of the
 [Pubfig](http://www.cs.columbia.edu/CAVE/databases/pubfig/) face database. You
